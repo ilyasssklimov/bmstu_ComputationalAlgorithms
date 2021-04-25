@@ -1,1 +1,2 @@
-# bmstu_ComputationalAlgorithms
+## bmstu_ComputationalAlgorithms
+4й семестр - лабораторные работы по вычислительным алгоритмам
